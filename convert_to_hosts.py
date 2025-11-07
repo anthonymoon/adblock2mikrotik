@@ -30,7 +30,7 @@ def convert_rule(rule):
         domain = domain.split("$")[0]
         # Basic domain validation
         if re.match(r"^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", domain):
-            return f"0.0.0.0 {domain}"
+            return f"10.0.0.2 {domain}"
     return None
 
 
@@ -67,7 +67,7 @@ def main():
 # - OISD Full
 # - AdGuard DNS Filter
 #
-# Format: 0.0.0.0 domain.tld
+# Format: 10.0.0.2 domain.tld
 #
 """
 

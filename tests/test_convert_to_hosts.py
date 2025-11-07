@@ -6,16 +6,16 @@ import convert_to_hosts
 
 def test_convert_rule_valid():
     # Valid rule with || and ^
-    assert convert_to_hosts.convert_rule("||example.com^") == "0.0.0.0 example.com"
+    assert convert_to_hosts.convert_rule("||example.com^") == "10.0.0.2 example.com"
     # Valid rule with modifiers after ^
     assert (
         convert_to_hosts.convert_rule("||example.com^$third-party")
-        == "0.0.0.0 example.com"
+        == "10.0.0.2 example.com"
     )
     # Rule with comment and whitespace
     assert (
         convert_to_hosts.convert_rule("||example.com^  # comment")
-        == "0.0.0.0 example.com"
+        == "10.0.0.2 example.com"
     )
 
 
@@ -66,6 +66,6 @@ def test_main(mock_file, mock_fetch_rules):
 
     # Check that converted rules were written
     written_text = "".join(call.args[0] for call in handle.write.call_args_list)
-    assert "0.0.0.0 example.com" in written_text
-    assert "0.0.0.0 test.com" in written_text
+    assert "10.0.0.2 example.com" in written_text
+    assert "10.0.0.2 test.com" in written_text
     assert "# Converted 2 rules from this source" in written_text
