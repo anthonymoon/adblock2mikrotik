@@ -36,11 +36,16 @@ def convert_rule(rule):
 
 def main():
     urls = [
-        # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt",
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
+        # Hagezi lists (Pro++ variants for maximum coverage)
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt",
-        # "https://..."
+        # 1Hosts - Xtra version (more aggressive blocking)
+        "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt",
+        # OISD - Full (comprehensive coverage)
+        "https://abp.oisd.nl/",
+        # AdGuard DNS Filter (ads + tracking)
+        "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
     ]
 
     # Use a set to track unique rules
@@ -54,10 +59,13 @@ def main():
 # License: https://github.com/eugenescodes/adblock2mikrotik/blob/main/LICENSE
 #
 # Last modified: {current_time}
-#  
+#
 # Sources:
-# 
-# - Hagezi DNS blocklist for syntax adblock
+#
+# - Hagezi DNS blocklists (Multi PRO++, TIF, Gambling mini)
+# - 1Hosts Xtra (badmojr)
+# - OISD Full
+# - AdGuard DNS Filter
 #
 # Format: 0.0.0.0 domain.tld
 #
