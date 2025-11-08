@@ -35,6 +35,13 @@ def convert_rule(rule):
 
 
 def main():
+    # Whitelist for false positives (legitimate domains incorrectly blocked by upstream lists)
+    WHITELIST = {
+        "import.cdn.thinkific.com",  # Thinkific course platform CDN (false positive in 1Hosts Xtra)
+        "email.noreply.thinkific.com",  # Thinkific transactional emails
+        "email.notify.thinkific.com",  # Thinkific notification emails
+    }
+
     urls = [
         # Hagezi lists (Pro++ variants for maximum coverage)
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
@@ -82,9 +89,13 @@ def main():
             for rule in rules:
                 converted = convert_rule(rule)
                 if converted and converted not in unique_rules:
-                    unique_rules.add(converted)
-                    f.write(converted + "\n")
-                    converted_count += 1
+                    # Extract domain from converted rule (format: "10.0.0.2 domain.com")
+                    domain = converted.split()[-1]
+                    # Skip if domain is in whitelist
+                    if domain not in WHITELIST:
+                        unique_rules.add(converted)
+                        f.write(converted + "\n")
+                        converted_count += 1
 
             f.write(f"\n# Converted {converted_count} rules from this source\n\n")
 
