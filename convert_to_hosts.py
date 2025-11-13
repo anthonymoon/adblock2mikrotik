@@ -1,13 +1,12 @@
-import requests
 import re
-from datetime import datetime, UTC
+from datetime import UTC, datetime
+
+import requests
 
 
 def fetch_rules(url):
     try:
-        response = requests.get(
-            url, timeout=(3, 10)
-        )  # timeout=(connect_timeout, read_timeout)
+        response = requests.get(url, timeout=(3, 10))  # timeout=(connect_timeout, read_timeout)
         response.raise_for_status()  # Check for HTTP errors
         return response.text.splitlines()
     except requests.RequestException as e:
@@ -36,6 +35,7 @@ def convert_rule(rule):
 
 def main():
     # Whitelist for false positives (legitimate domains incorrectly blocked by upstream lists)
+    # Note: All .io domains are automatically whitelisted (see filtering logic below)
     WHITELIST = {
         "import.cdn.thinkific.com",  # Thinkific course platform CDN (false positive in 1Hosts Xtra)
         "email.noreply.thinkific.com",  # Thinkific transactional emails
@@ -43,15 +43,15 @@ def main():
     }
 
     urls = [
-        # Hagezi lists (Pro++ variants for maximum coverage)
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+        # Hagezi - Normal (balanced, recommended by community for fewer false positives)
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
+        # Hagezi - Threat Intelligence Feeds (security focused)
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt",
-        # 1Hosts - Xtra version (more aggressive blocking)
-        "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt",
-        # OISD - Full (comprehensive coverage)
-        "https://abp.oisd.nl/",
-        # AdGuard DNS Filter (ads + tracking)
+        # 1Hosts - Lite version (balanced, prioritizes smooth UX)
+        "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
+        # OISD - Basic (fewer false positives than Full)
+        "https://small.oisd.nl/",
+        # AdGuard DNS Filter (maintained, good balance)
         "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
     ]
 
@@ -67,12 +67,14 @@ def main():
 #
 # Last modified: {current_time}
 #
-# Sources:
+# Sources (balanced variants to minimize false positives):
 #
-# - Hagezi DNS blocklists (Multi PRO++, TIF, Gambling mini)
-# - 1Hosts Xtra (badmojr)
-# - OISD Full
+# - Hagezi DNS blocklists (Multi Normal, TIF)
+# - 1Hosts Lite (badmojr)
+# - OISD Basic
 # - AdGuard DNS Filter
+#
+# Note: All .io domains are automatically whitelisted
 #
 # Format: 10.0.0.2 domain.tld
 #
@@ -91,8 +93,8 @@ def main():
                 if converted and converted not in unique_rules:
                     # Extract domain from converted rule (format: "10.0.0.2 domain.com")
                     domain = converted.split()[-1]
-                    # Skip if domain is in whitelist
-                    if domain not in WHITELIST:
+                    # Skip if domain is in whitelist or is a .io domain
+                    if domain not in WHITELIST and not domain.endswith(".io"):
                         unique_rules.add(converted)
                         f.write(converted + "\n")
                         converted_count += 1
