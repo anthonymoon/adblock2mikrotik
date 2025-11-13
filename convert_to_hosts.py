@@ -6,7 +6,9 @@ import requests
 
 def fetch_rules(url):
     try:
-        response = requests.get(url, timeout=(3, 10))  # timeout=(connect_timeout, read_timeout)
+        response = requests.get(
+            url, timeout=(3, 10)
+        )  # timeout=(connect_timeout, read_timeout)
         response.raise_for_status()  # Check for HTTP errors
         return response.text.splitlines()
     except requests.RequestException as e:
