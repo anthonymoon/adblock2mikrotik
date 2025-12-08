@@ -3,7 +3,7 @@
 # Homepage: https://github.com/eugenescodes/adblock2mikrotik
 # License: https://github.com/eugenescodes/adblock2mikrotik/blob/main/LICENSE
 #
-# Last modified: 2025-12-08 12:10:55 UTC
+# Last modified: 2025-12-08 18:09:27 UTC
 #
 # Sources (balanced variants to minimize false positives):
 #
@@ -674794,6 +674794,7 @@
 10.0.0.2 collector.leaddyno.com
 10.0.0.2 collectorj.tvsquared.com
 10.0.0.2 com.serveo.net
+10.0.0.2 commiescimaise.cyou
 10.0.0.2 common.duapps.com
 10.0.0.2 company.com.ph
 10.0.0.2 compositefarming.com
@@ -675135,9 +675136,11 @@
 10.0.0.2 gobusinessloan.com
 10.0.0.2 goddessvip.com
 10.0.0.2 godrix.com
+10.0.0.2 goorootripy.click
 10.0.0.2 gov.yanao.ru
 10.0.0.2 govtax.com
 10.0.0.2 gracecore.com
+10.0.0.2 grandcasinozerkalo.ru.com
 10.0.0.2 gratis.sms.senden.sms13.de
 10.0.0.2 gravygirls.com
 10.0.0.2 greatfind-a.akamaihd.net
@@ -675157,6 +675160,7 @@
 10.0.0.2 hbx.df-srv.de
 10.0.0.2 heartbeats.prd.data.s.joyn.de
 10.0.0.2 hello.staticstuff.net
+10.0.0.2 hemesdirging.rest
 10.0.0.2 hermes.allo-media.net
 10.0.0.2 hillsharvest.com
 10.0.0.2 hit.123c.vn
@@ -675192,6 +675196,7 @@
 10.0.0.2 idolight.net
 10.0.0.2 iframes.pornprosnetwork.com
 10.0.0.2 ii.gdt.qq.com
+10.0.0.2 iikok6qiwg15xfpx.cfd
 10.0.0.2 ilead.itrack.it
 10.0.0.2 image.hpplay.cn
 10.0.0.2 imageprostyle-communication.fr
@@ -675215,15 +675220,19 @@
 10.0.0.2 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 10.0.0.2 irqs.ioam.de
 10.0.0.2 iwe.ktvgv.com
+10.0.0.2 ixquyrywdfsjg.site
 10.0.0.2 j.baminw.cn
 10.0.0.2 jacilla-static.reviveservers.com
 10.0.0.2 jbdch1.appmobile.cn
+10.0.0.2 jdghsqvxmcrzi.space
+10.0.0.2 jozykeats.rest
 10.0.0.2 js.users.51.la
 10.0.0.2 jscdn.yieldbird.com
 10.0.0.2 jtracking-gate.lulusoft.com
 10.0.0.2 jtracking.lulusoft.com
 10.0.0.2 justwebads.com
 10.0.0.2 k.streamrail.com
+10.0.0.2 kapfgnuen.com
 10.0.0.2 kitchen.juicer.cc
 10.0.0.2 ktu.sv2.biz
 10.0.0.2 l0-secure.videohub.tv
@@ -675422,6 +675431,7 @@
 10.0.0.2 partners.admidadsp.com
 10.0.0.2 pasta.esfile.duapps.com
 10.0.0.2 pawads.midtc.com
+10.0.0.2 paxiubaconchs.shop
 10.0.0.2 pbs.adksrv.com
 10.0.0.2 pbs2.adksrv.com
 10.0.0.2 pebed.dm-event.net
@@ -675491,6 +675501,7 @@
 10.0.0.2 redir.tropicalsands.club
 10.0.0.2 register.appsflyersdk.com
 10.0.0.2 reklama.teenfuckhd.com
+10.0.0.2 relineschithe.help
 10.0.0.2 reporting.singlefeed.com
 10.0.0.2 reports.sdiapi.com
 10.0.0.2 res1.hubcloud.com.cn
@@ -675695,6 +675706,7 @@
 10.0.0.2 rtlog.isnssdk.com
 10.0.0.2 rts.mobula.sdk.duapps.com
 10.0.0.2 rtvutrecht-static.reviveservers.com
+10.0.0.2 rubblesdaunts.shop
 10.0.0.2 s.18ramp.com
 10.0.0.2 s.adroll.com
 10.0.0.2 s.adsession.com
@@ -675770,6 +675782,7 @@
 10.0.0.2 smpl.hit.ppdb.pl
 10.0.0.2 socdem-enrich.getshop.tv
 10.0.0.2 sp.indystar.com
+10.0.0.2 spignelwide.qpon
 10.0.0.2 spixel.socy.es
 10.0.0.2 sponsors-v2.floorforce.com
 10.0.0.2 sponsors.floorforce.com
@@ -675918,6 +675931,7 @@
 10.0.0.2 stats.ulixes.pl
 10.0.0.2 stats.zotabox.com
 10.0.0.2 stats2.videonow.ru
+10.0.0.2 steepoustailry.com
 10.0.0.2 stg-data.ads.heytapmobi.com
 10.0.0.2 stork.notlessbutbetter.com
 10.0.0.2 supportmetrics.apple.com
@@ -675961,6 +675975,7 @@
 10.0.0.2 teslcorp.xyz
 10.0.0.2 textad.sexsearch.com
 10.0.0.2 thassos.clicknplay.to
+10.0.0.2 thctu74f2w29rhzfekt7z6p4p.rest
 10.0.0.2 thind-gke-euw.prd.data.corp.unity3d.com
 10.0.0.2 tknet.rayjump.com
 10.0.0.2 tlads.midtc.com
@@ -676437,7 +676452,7 @@
 10.0.0.2 zjres-ad.kajicam.com
 10.0.0.2 zv.7vid.net
 
-# Converted 2210 rules from this source
+# Converted 2225 rules from this source
 
 
 # Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -726691,4 +726706,4 @@
 # Converted 50245 rules from this source
 
 
-# Total unique domains: 726644
+# Total unique domains: 726659
