@@ -3,7 +3,7 @@
 # Homepage: https://github.com/eugenescodes/adblock2mikrotik
 # License: https://github.com/eugenescodes/adblock2mikrotik/blob/main/LICENSE
 #
-# Last modified: 2026-01-16 00:27:36 UTC
+# Last modified: 2026-01-16 06:10:09 UTC
 #
 # Sources (balanced variants to minimize false positives):
 #
@@ -685029,6 +685029,7 @@
 10.0.0.2 3kcn2j4m6khi32.rest
 10.0.0.2 3m8p16urm11roby.cfd
 10.0.0.2 3zltpzb1o9zegmchtyzfophg.cfd
+10.0.0.2 42299b10ef.com
 10.0.0.2 43478y.online
 10.0.0.2 46186911.vtt
 10.0.0.2 47rcmv33hie2hmzprijmb.cfd
@@ -685051,6 +685052,7 @@
 10.0.0.2 56reil3kmme7zg.cfd
 10.0.0.2 582582.xyz
 10.0.0.2 58uw1k3c4yyoiwe9i5yg7pz1.cfd
+10.0.0.2 58zmjp8xzunu6lr25nyk.cfd
 10.0.0.2 5e48fxmxvquwuv5urjiwr66.cfd
 10.0.0.2 5iewmxrnm7r3ckpcyfk.rest
 10.0.0.2 5jfqo4jux32nmhkp2vtgg62cggc.rest
@@ -685071,6 +685073,7 @@
 10.0.0.2 683pzx3jefn1pyt75.cfd
 10.0.0.2 685fkqfnbjfu4yje.rest
 10.0.0.2 69t3pc1r5qckz945wil.cfd
+10.0.0.2 6b8051dfcc.com
 10.0.0.2 6cco1je6c96xjp2gq7.rest
 10.0.0.2 6chmrmjugoeq1bk.cfd
 10.0.0.2 6e7nv247bhbh2w8v.rest
@@ -685628,6 +685631,7 @@
 10.0.0.2 askarwanions.qpon
 10.0.0.2 asklfnmoqwe.xyz
 10.0.0.2 asmtsyelpgwos.space
+10.0.0.2 aspacehelps.shop
 10.0.0.2 aspalaxyerking.help
 10.0.0.2 assartmatelow.click
 10.0.0.2 astaifuwoocair.net
@@ -685726,6 +685730,7 @@
 10.0.0.2 aviditycantily.cyou
 10.0.0.2 avirstiinmxzp.space
 10.0.0.2 avitalstichos.qpon
+10.0.0.2 avjbjbeywarjj.top
 10.0.0.2 avjdxpusxhlxs.com
 10.0.0.2 avjrxiryow.xyz
 10.0.0.2 avloan3431.fun
@@ -686174,6 +686179,7 @@
 10.0.0.2 bluelymisrun.qpon
 10.0.0.2 bluethverts.help
 10.0.0.2 blunketspt.help
+10.0.0.2 bluqwtfeyasw.com
 10.0.0.2 blusterscreens.cyou
 10.0.0.2 blvruput.xyz
 10.0.0.2 blwdricfvhneu.space
@@ -686309,6 +686315,7 @@
 10.0.0.2 brashersequins.cfd
 10.0.0.2 braunaalbert.help
 10.0.0.2 bravaquoited.qpon
+10.0.0.2 braylosings.qpon
 10.0.0.2 brdbwayjkebb.xyz
 10.0.0.2 brdhbizupevpj.online
 10.0.0.2 bremiajos.cfd
@@ -686416,6 +686423,7 @@
 10.0.0.2 bv8rjlooeg8wxw81tt4ge9g7yx7qon4l2xyxl8.cfd
 10.0.0.2 bv967egpj6lb7p1ryrixkcpqkwryhy.cfd
 10.0.0.2 bvcmxvvjdgxnl.online
+10.0.0.2 bvfwjqrexrqmv.com
 10.0.0.2 bvnamzjpmqyqc.website
 10.0.0.2 bvodoujjv.xyz
 10.0.0.2 bvrigohidxggr.site
@@ -686505,6 +686513,7 @@
 10.0.0.2 callunaabiegh.qpon
 10.0.0.2 calverdeutzia.help
 10.0.0.2 camaurokalium.qpon
+10.0.0.2 camillaconredodea.qpon
 10.0.0.2 camiwhothoot.net
 10.0.0.2 campedredders.qpon
 10.0.0.2 campelurches.cyou
@@ -686618,6 +686627,7 @@
 10.0.0.2 cegifompifteefa.net
 10.0.0.2 ceibarheme.cyou
 10.0.0.2 ceibohan.help
+10.0.0.2 ceitekbqdumsz.website
 10.0.0.2 cejawesx.com
 10.0.0.2 cejckggvflvnf.space
 10.0.0.2 cellosfroggy.cyou
@@ -686999,6 +687009,7 @@
 10.0.0.2 coprahrazzly.cyou
 10.0.0.2 coqctcfbwggkq.website
 10.0.0.2 coquinvali.shop
+10.0.0.2 corcnyqqlnuyam.xyz
 10.0.0.2 corgefeoffee.help
 10.0.0.2 coriinperil.qpon
 10.0.0.2 corincatwood.qpon
@@ -687694,6 +687705,7 @@
 10.0.0.2 dtufjrdejri.xyz
 10.0.0.2 dtvvpeizsibai.online
 10.0.0.2 dtwrykqojntpq.website
+10.0.0.2 dtzcucxegdlqi.website
 10.0.0.2 dubbyamazons.help
 10.0.0.2 duckishcif.cyou
 10.0.0.2 dudoffpewzghy.space
@@ -687788,6 +687800,7 @@
 10.0.0.2 ebtmheltqzyub.online
 10.0.0.2 ebtzwvjgdyitf.site
 10.0.0.2 ebxaslffntje.xyz
+10.0.0.2 ecaucohooz.com
 10.0.0.2 eccvwnwjayrqyeo.net
 10.0.0.2 eccvwnwjayrqyeo.xyz
 10.0.0.2 eccwpuyfgbnpi.site
@@ -688132,6 +688145,7 @@
 10.0.0.2 eudistoutlets.help
 10.0.0.2 eugxibbuhk.com
 10.0.0.2 eujeopalyxukw.com
+10.0.0.2 eujlbuipuxizw.online
 10.0.0.2 eulovgusg.net
 10.0.0.2 eumgzcvgskxcz.site
 10.0.0.2 euncfyxy.com
@@ -688254,6 +688268,7 @@
 10.0.0.2 fashercartop.cfd
 10.0.0.2 fasooxoaqkudd.site
 10.0.0.2 fasticogit.cyou
+10.0.0.2 fat-sand.pro
 10.0.0.2 faucaitoasha.net
 10.0.0.2 faugunocifaume.net
 10.0.0.2 fauldchildessewen.cfd
@@ -689058,6 +689073,7 @@
 10.0.0.2 gochiftouts.net
 10.0.0.2 gociejpxtkkspov.xyz
 10.0.0.2 goegcygrphial.site
+10.0.0.2 gofouzmzhiuib.online
 10.0.0.2 gogglechivari.cfd
 10.0.0.2 gohqojjbdrgmr.space
 10.0.0.2 gojesrlkzmlgz.website
@@ -689384,6 +689400,7 @@
 10.0.0.2 harkedcostly.help
 10.0.0.2 harkenseringos.cyou
 10.0.0.2 harmerpand.cfd
+10.0.0.2 harmlessquality.pro
 10.0.0.2 harrowsratine.cyou
 10.0.0.2 hashabdaffier.cfd
 10.0.0.2 hashauksie.net
@@ -689488,6 +689505,7 @@
 10.0.0.2 hfjayqpjryxel.online
 10.0.0.2 hfknoftkkkmbi.space
 10.0.0.2 hflcolyyf.xyz
+10.0.0.2 hflxmfjkugjeh.site
 10.0.0.2 hfmnwlqgodd.net
 10.0.0.2 hfvhrbkblzxlq.site
 10.0.0.2 hfyjykludniuboi.xyz
@@ -690263,6 +690281,7 @@
 10.0.0.2 jeglupagheeh.net
 10.0.0.2 jejunalduets.cyou
 10.0.0.2 jempoortis.net
+10.0.0.2 jeobnwlvtqsqk.site
 10.0.0.2 jepsauftoab.net
 10.0.0.2 jepsauveel.net
 10.0.0.2 jerdwlplgwpzz.online
@@ -690471,6 +690490,7 @@
 10.0.0.2 jugaidrailsi.net
 10.0.0.2 juggednaveled.cyou
 10.0.0.2 jugularmatches.help
+10.0.0.2 juicilyjeany.cfd
 10.0.0.2 juicysciniph.cyou
 10.0.0.2 julidanwack.cyou
 10.0.0.2 junoniahorsier.cyou
@@ -690658,6 +690678,7 @@
 10.0.0.2 kibsaraigni.net
 10.0.0.2 kidnapbarkey.cyou
 10.0.0.2 kieltonna.qpon
+10.0.0.2 kihlajvambz.com
 10.0.0.2 kilahud.cyou
 10.0.0.2 kilergsubdure.cyou
 10.0.0.2 kiliareof.cfd
@@ -690709,6 +690730,7 @@
 10.0.0.2 kllpbqoweypkn.online
 10.0.0.2 kllzuzuzuhggy.site
 10.0.0.2 klondidyaqvsw.online
+10.0.0.2 klpyvwucniztv.website
 10.0.0.2 klspkjyub-n.xyz
 10.0.0.2 kludgecropperjobarbe.cyou
 10.0.0.2 klwlqpefhrfld.website
@@ -690754,6 +690776,7 @@
 10.0.0.2 kofxbthodmiia.space
 10.0.0.2 koibvboxuvndaxc.xyz
 10.0.0.2 kokocuir.qpon
+10.0.0.2 kokrahaired.cyou
 10.0.0.2 kolaiwoaphoust.net
 10.0.0.2 kolapoompup.net
 10.0.0.2 komatikbioptic.cfd
@@ -690800,6 +690823,7 @@
 10.0.0.2 kraitbauld.cyou
 10.0.0.2 krbbxyokiltfv.space
 10.0.0.2 krhfaycotsq.com
+10.0.0.2 krnnibimmphidn.com
 10.0.0.2 krnoupbcxfp.com
 10.0.0.2 krnvcwvvggttq.space
 10.0.0.2 kromerefinds.cyou
@@ -690843,6 +690867,7 @@
 10.0.0.2 kutyigeegikcp.space
 10.0.0.2 kuuqakgektnyn.site
 10.0.0.2 kuvybwjxozbws.website
+10.0.0.2 kuwneabsxrrgv.site
 10.0.0.2 kvcddxmzgvmrk.online
 10.0.0.2 kvcytjbllaeao.site
 10.0.0.2 kvfiutytcelqx.site
@@ -691018,6 +691043,7 @@
 10.0.0.2 leevesheeham.net
 10.0.0.2 leevgyrscisge.online
 10.0.0.2 leezaowfwltok.website
+10.0.0.2 legal-tennis.pro
 10.0.0.2 legginjowly.help
 10.0.0.2 leghairy.net
 10.0.0.2 leglessreekers.help
@@ -691079,6 +691105,7 @@
 10.0.0.2 libidosacemila.rest
 10.0.0.2 librarybengals.cyou
 10.0.0.2 libriluger.qpon
+10.0.0.2 libsoury.qpon
 10.0.0.2 licfbzovbjkuz.space
 10.0.0.2 lidargoddize.help
 10.0.0.2 lidqlgjfdsloo.site
@@ -691490,6 +691517,7 @@
 10.0.0.2 mebwzhffdaval.website
 10.0.0.2 media-412.com
 10.0.0.2 medimteedaibo.net
+10.0.0.2 medocpinkenypokers.cfd
 10.0.0.2 medqezanrpnhq.website
 10.0.0.2 meecareephiroa.net
 10.0.0.2 meecellamas.cyou
@@ -691511,6 +691539,7 @@
 10.0.0.2 meintybmjwslv.space
 10.0.0.2 melilotmikra.qpon
 10.0.0.2 mellatemyrica.qpon
+10.0.0.2 meltonapeakfibber.cfd
 10.0.0.2 menacermonilia.help
 10.0.0.2 menderstooks.help
 10.0.0.2 menydrolls.help
@@ -691696,6 +691725,7 @@
 10.0.0.2 moirkmmdtphir.online
 10.0.0.2 moistenstold.help
 10.0.0.2 molarmodern.cfd
+10.0.0.2 moldsembryol.cyou
 10.0.0.2 molikrebaumt.xyz
 10.0.0.2 moltoelon.qpon
 10.0.0.2 momentjav182.fun
@@ -691805,9 +691835,11 @@
 10.0.0.2 mtvatglepglbz.site
 10.0.0.2 mtwhoxpffs.com
 10.0.0.2 mtyrltifpzwzb.online
+10.0.0.2 mu9qgorqvxl8hm64.cfd
 10.0.0.2 muadrkptibau.com
 10.0.0.2 muanadalow.xyz
 10.0.0.2 mubkemxsr.net
+10.0.0.2 mubojbalp.com
 10.0.0.2 mucinrestful.cyou
 10.0.0.2 muddishhagrode.help
 10.0.0.2 mudejarforches.qpon
@@ -691914,6 +691946,7 @@
 10.0.0.2 nahrsvtslfjzz.site
 10.0.0.2 nahuaesnecy.help
 10.0.0.2 naipachevoapt.net
+10.0.0.2 naipkincatties.com
 10.0.0.2 naipsouz.net
 10.0.0.2 nairebaufaiptee.net
 10.0.0.2 naisijauser.net
@@ -692059,6 +692092,7 @@
 10.0.0.2 niuneujrvefqb.website
 10.0.0.2 nivrdypzuecnd.online
 10.0.0.2 nivunngkrfxlb.space
+10.0.0.2 niwzwkovvakfn.website
 10.0.0.2 niyamafunster.help
 10.0.0.2 niylnvyrnedek.online
 10.0.0.2 nizkwvaqczcxj.space
@@ -692170,6 +692204,7 @@
 10.0.0.2 nppbvulfelsx.xyz
 10.0.0.2 nppwqeyhasddh.space
 10.0.0.2 npttprrgr.net
+10.0.0.2 npxvbqgxwbpdt.site
 10.0.0.2 npykxige.net
 10.0.0.2 npyzxhbzwxosr.space
 10.0.0.2 npzztwnartfjy.website
@@ -692198,12 +692233,14 @@
 10.0.0.2 nscanzvkaxfvf.website
 10.0.0.2 nscnpwjcxsslq.website
 10.0.0.2 nscqpscyjtxmx.space
+10.0.0.2 nsiguxdpbibrp.online
 10.0.0.2 nsjoufsoaa.com
 10.0.0.2 nskpofnthtjgu.net
 10.0.0.2 nsluapgqxevcq.space
 10.0.0.2 nslvhhlxm.com
 10.0.0.2 nslvxkrowg.net
 10.0.0.2 nsojaxjotd.xyz
+10.0.0.2 nsrrbepdvnyyoe.xyz
 10.0.0.2 nsxtramxysmlw.online
 10.0.0.2 ntdyswwdmr.xyz
 10.0.0.2 ntejdiphkkfpx.website
@@ -692840,6 +692877,7 @@
 10.0.0.2 paufovurepeenou.net
 10.0.0.2 paukoothoophe.net
 10.0.0.2 pausauptoaglavo.net
+10.0.0.2 pavinskabaka.cyou
 10.0.0.2 pavlovwhippet.cyou
 10.0.0.2 pbcdxcodlooba.online
 10.0.0.2 pbestrdinkbff.online
@@ -692940,6 +692978,7 @@
 10.0.0.2 pghoker.cyou
 10.0.0.2 pgmjejgfvmxqp.website
 10.0.0.2 pgnywmtnskmng.space
+10.0.0.2 pgoavqqqrfi.com
 10.0.0.2 pgrfpzlohsssh.online
 10.0.0.2 pgrvesxotrian.space
 10.0.0.2 pgwwumwejaops.website
@@ -693027,6 +693066,7 @@
 10.0.0.2 picasguisian.shop
 10.0.0.2 pichost64.site
 10.0.0.2 picinaequinism.cyou
+10.0.0.2 piculepardon.shop
 10.0.0.2 pidginshotmelt.help
 10.0.0.2 piewifegee.qpon
 10.0.0.2 piggeryenguard.cfd
@@ -693235,6 +693275,7 @@
 10.0.0.2 pqkcljgmjatgd.xyz
 10.0.0.2 pqkdmziebfiul.online
 10.0.0.2 pqlrthvyxubbf.site
+10.0.0.2 pqmncfvsfmhkq.website
 10.0.0.2 pqmqvnxwijmol.space
 10.0.0.2 pqnusvmrtxmtq.space
 10.0.0.2 pqouwxvnbjkjm.space
@@ -693458,6 +693499,7 @@
 10.0.0.2 pwlyfsjngswju.website
 10.0.0.2 pwoiobiaaol.com
 10.0.0.2 pwukbeudquylh.site
+10.0.0.2 pwwwksjokcaaq.online
 10.0.0.2 pwxzkpspgaxxl.online
 10.0.0.2 pxagcdqxekgsf.online
 10.0.0.2 pxambpzbommbb.website
@@ -693552,6 +693594,7 @@
 10.0.0.2 qehlpxpuhbxon.space
 10.0.0.2 qeidaxidcfj.xyz
 10.0.0.2 qejfjnckgfury.space
+10.0.0.2 qekbmjwjrbbwj.top
 10.0.0.2 qemuanrmnkzlb.space
 10.0.0.2 qepfogmvvwyyk.site
 10.0.0.2 qepguztjgmqtk.space
@@ -694005,6 +694048,7 @@
 10.0.0.2 rethootchedurt.net
 10.0.0.2 retraindatsuns.qpon
 10.0.0.2 retrimsrohangunners.cfd
+10.0.0.2 retsinatribe.shop
 10.0.0.2 retwineroncos.qpon
 10.0.0.2 reubinlets.help
 10.0.0.2 reusrtmgoxllr.website
@@ -694085,6 +694129,7 @@
 10.0.0.2 rimpirotunda.cyou
 10.0.0.2 ringaunsoordoo.net
 10.0.0.2 rinsersdooket.cfd
+10.0.0.2 rioewhlwcvkq.com
 10.0.0.2 riprapsskittle.help
 10.0.0.2 riptognouque.net
 10.0.0.2 rirteelraibsou.net
@@ -694352,6 +694397,7 @@
 10.0.0.2 sailcovertend.com
 10.0.0.2 sailorjav128.fun
 10.0.0.2 saimigojonounor.net
+10.0.0.2 sakersfullest.cyou
 10.0.0.2 sakyyfqmtgldg.website
 10.0.0.2 salgvxxbuwhxbd.com
 10.0.0.2 salitedhendly.help
@@ -694407,6 +694453,7 @@
 10.0.0.2 sbesuycwcjc.xyz
 10.0.0.2 sbfoivdnrughq.space
 10.0.0.2 sbmhbvlubnwzy.online
+10.0.0.2 sbnawtlag.com
 10.0.0.2 sbrxwyudkepkc.site
 10.0.0.2 sbtgxcxcnvaj.com
 10.0.0.2 sbuobpzymktwt.online
@@ -694714,6 +694761,7 @@
 10.0.0.2 smvuvscjqofbm.website
 10.0.0.2 smxpdgbfvoexq.site
 10.0.0.2 smykirfgsmfpl.space
+10.0.0.2 smzxudnyezpfn.space
 10.0.0.2 sndzrfmkqawfk.online
 10.0.0.2 snehkjlheanqj.website
 10.0.0.2 snipscimex.cyou
@@ -695020,6 +695068,7 @@
 10.0.0.2 taarducape.cyou
 10.0.0.2 tabidhooroo.cyou
 10.0.0.2 taborhexeris.cyou
+10.0.0.2 tabusnichedknish.cfd
 10.0.0.2 tacanaleaked.cyou
 10.0.0.2 tacticflitty.cfd
 10.0.0.2 tacwevvgrvnaq.space
@@ -695127,6 +695176,7 @@
 10.0.0.2 tertiidamsite.com
 10.0.0.2 tetdvowebnbuh.online
 10.0.0.2 tevryvlkjnqec.website
+10.0.0.2 texaseswiglets.cyou
 10.0.0.2 tfiluiwcgdryl.online
 10.0.0.2 tfpvxnjcwcilu.website
 10.0.0.2 tfrgpwbssxyjb.space
@@ -695186,6 +695236,7 @@
 10.0.0.2 thoukouxou.net
 10.0.0.2 thoumtousoosoaw.net
 10.0.0.2 thoupsuk.net
+10.0.0.2 thoursaunsaicun.net
 10.0.0.2 thowharsoaps.net
 10.0.0.2 thtpyzahzpppu.website
 10.0.0.2 thtucuficxrfb.online
@@ -695318,6 +695369,7 @@
 10.0.0.2 tplmfqnrssmmw.online
 10.0.0.2 tpmr.com
 10.0.0.2 tpwkbwphabbau.online
+10.0.0.2 tqcppxvxhbzgi.site
 10.0.0.2 tqgayhnwphgxn.site
 10.0.0.2 tqgdovbcivlfu.space
 10.0.0.2 tqixmouyvssba.online
@@ -695481,6 +695533,7 @@
 10.0.0.2 ueqjychtgl.net
 10.0.0.2 uewhrvljpnkrw.site
 10.0.0.2 ueykjfltxqsb.space
+10.0.0.2 ufdxzbxnnkulz.online
 10.0.0.2 uffntgsdxwyog.online
 10.0.0.2 uffyltfpfi.com
 10.0.0.2 uflzxeqahgtvk.website
@@ -695685,6 +695738,7 @@
 10.0.0.2 ustoupaumoaw.net
 10.0.0.2 ustuthaupoaw.net
 10.0.0.2 ustxvwabeeqok.online
+10.0.0.2 usuallybeholdapathetic.com
 10.0.0.2 usunompuzoz.net
 10.0.0.2 uszgtoawknavp.website
 10.0.0.2 uszwemdrlwqxw.website
@@ -695824,6 +695878,7 @@
 10.0.0.2 vepssafi.cfd
 10.0.0.2 verilyatwite.help
 10.0.0.2 verrellwisses.cyou
+10.0.0.2 versorabave.cfd
 10.0.0.2 versteether.cfd
 10.0.0.2 ververmajashackney.cfd
 10.0.0.2 vespidbornean.help
@@ -696430,6 +696485,7 @@
 10.0.0.2 wyurubfxbxwka.site
 10.0.0.2 wyverncitralslosings.cyou
 10.0.0.2 wyvlllooallok.top
+10.0.0.2 wyxdsmlxwmply.com
 10.0.0.2 wzakjibtliyes.online
 10.0.0.2 wzaprgcebheqf.online
 10.0.0.2 wzjaczokogjfl.space
@@ -696451,6 +696507,7 @@
 10.0.0.2 xazmshwtsxkne.online
 10.0.0.2 xblymwmlhadfh.website
 10.0.0.2 xbscldcctgbzu.space
+10.0.0.2 xbvlryxpygptr.space
 10.0.0.2 xbwwfbiwrujqs.site
 10.0.0.2 xbxtuzjcujqgg.space
 10.0.0.2 xcaffqfmgwyor.space
@@ -696526,6 +696583,7 @@
 10.0.0.2 xmdbngshvjmtp.space
 10.0.0.2 xmeqgbkrmnruv.website
 10.0.0.2 xmhrjllcnynfs.website
+10.0.0.2 xmkakaagkvr.com
 10.0.0.2 xmonwu59ojtz5fk3q.cfd
 10.0.0.2 xmtkdmcx.net
 10.0.0.2 xmuwhhajxgtpm.com
@@ -696604,6 +696662,7 @@
 10.0.0.2 xvryjozffyfww.space
 10.0.0.2 xvtghzjfofrzk.space
 10.0.0.2 xvtnaperelcrp.online
+10.0.0.2 xvvdxushzwlgh.space
 10.0.0.2 xvz18ivremuipp.cfd
 10.0.0.2 xvzfiyuzilyyb.site
 10.0.0.2 xvzgfyqucqrbw.space
@@ -696648,6 +696707,7 @@
 10.0.0.2 yapzoa.xyz
 10.0.0.2 yasmakshereby.qpon
 10.0.0.2 yasyyxtxtlbxpnq.net
+10.0.0.2 yatukdakwfhhp.online
 10.0.0.2 yawjmjhvpqfpu.website
 10.0.0.2 yawperssovkhoz.help
 10.0.0.2 yawytfr.cfd
@@ -696723,6 +696783,8 @@
 10.0.0.2 yhyqyveprasyv.website
 10.0.0.2 yibapaqndalsv.space
 10.0.0.2 yifwnqoaxcnpa.site
+10.0.0.2 yikftkpowbqceku.com
+10.0.0.2 yiltcoppled.shop
 10.0.0.2 yiphail.qpon
 10.0.0.2 yirublylsjlks.online
 10.0.0.2 yiskxtjozbiov.website
@@ -696780,6 +696842,7 @@
 10.0.0.2 yoxffovtpvwtr.online
 10.0.0.2 yp9f2w7v92j421ojvc.cfd
 10.0.0.2 ypcqhgapbjqmi.site
+10.0.0.2 ypibcwdncjxgc.online
 10.0.0.2 ypjncwyawdzss.site
 10.0.0.2 yprmiumi.xyz
 10.0.0.2 ypvibqgydnejr.space
@@ -697074,6 +697137,7 @@
 10.0.0.2 zyzimjopitrvj.online
 10.0.0.2 zyzqkbkeyqbyo.top
 10.0.0.2 zzindwzduphsb.site
+10.0.0.2 zzrazrolqazkb.top
 10.0.0.2 zzvozljdjszqi.site
 10.0.0.2 zzxrrcacgcsjf.site
 10.0.0.2 adrelayer.com
@@ -737681,6 +737745,17 @@
 10.0.0.2 hash.trafficmanager.net
 10.0.0.2 51tongji.trafficmanager.net
 10.0.0.2 cnzz.trafficmanager.net
+10.0.0.2 trombone48.com
+10.0.0.2 1qocqk1fho.com
+10.0.0.2 s0p6s02x28.com
+10.0.0.2 bugs01160ko.com
+10.0.0.2 8w6hovz0d2.com
+10.0.0.2 loleteal.com
+10.0.0.2 naxqhla.com
+10.0.0.2 bzmbrsm.com
+10.0.0.2 wvzd.cn
+10.0.0.2 0d1oo8jp69.com
+10.0.0.2 monopoly36.top
 10.0.0.2 bugs01150ko.com
 10.0.0.2 bugs01140ko.com
 10.0.0.2 bugs01141ko.com
@@ -738721,7 +738796,7 @@
 10.0.0.2 a4.overclockers.ua
 10.0.0.2 novunu.football-plyus.net
 
-# Converted 54030 rules from this source
+# Converted 54105 rules from this source
 
 
-# Total unique domains: 738677
+# Total unique domains: 738752
