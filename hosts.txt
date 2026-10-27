@@ -3,7 +3,7 @@
 # Homepage: https://github.com/eugenescodes/adblock2mikrotik
 # License: https://github.com/eugenescodes/adblock2mikrotik/blob/main/LICENSE
 #
-# Last modified: 2026-10-27 11:43:59 UTC
+# Last modified: 2026-10-27 17:38:32 UTC
 #
 # Sources (balanced variants to minimize false positives):
 #
@@ -2252150,6 +2252150,7 @@
 10.0.0.2 careers.hotjar.com
 10.0.0.2 carlsonmedia.streetinteractive.com
 10.0.0.2 cbanners.virtuagirlhd.com
+10.0.0.2 cbw1m4lir4761t.cfd
 10.0.0.2 cdn-cf.postitial.com
 10.0.0.2 cdn-fc.com
 10.0.0.2 cdn-rtb.sape.ru
@@ -2253268,11 +2253269,12 @@
 10.0.0.2 zdw.w8.com.cn
 10.0.0.2 zehsirysefasm.space
 
-# Converted 1286 rules from this source
+# Converted 1287 rules from this source
 
 
 # Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
+10.0.0.2 neonewszone.lat
 10.0.0.2 tinyns.me
 10.0.0.2 djvbrjtpqbikw.com
 10.0.0.2 curl.springinure.com
@@ -2254259,6 +2254261,7 @@
 10.0.0.2 ytimgg.com
 10.0.0.2 zhkzt.com
 10.0.0.2 popvalk.com
+10.0.0.2 bns.bluesystem.world
 10.0.0.2 zsp1.ah.be
 10.0.0.2 x9t7g4m2qk2.azurewebsites.net
 10.0.0.2 aa.hwigroup.com
@@ -2254293,6 +2254296,8 @@
 10.0.0.2 api.mobula.ds.duapps.com
 10.0.0.2 noxagile.duapp.com
 10.0.0.2 api.mobula.sdk.duapps.com
+10.0.0.2 inapps.af-sdk.com
+10.0.0.2 cdn-settings.af-sdk.com
 10.0.0.2 playwire.com
 10.0.0.2 mobads-logs.bcebos.com
 10.0.0.2 uydeqs9.xyz
@@ -2349294,149 +2349299,226 @@
 10.0.0.2 8q4o3h575jbn9h4z.rest
 10.0.0.2 8tglybne443zhyuvc3.rest
 10.0.0.2 8u9j9clpjox1y327p2omhp.rest
+10.0.0.2 aboughtlibbers.com
 10.0.0.2 adocean.pl
 10.0.0.2 adsrv.wtf
+10.0.0.2 agusqghqbmsgo.site
+10.0.0.2 auhslsfkwwrww.site
 10.0.0.2 avexguntybtxd.online
 10.0.0.2 b1hrrbqeqx325fhom54mvhepz.rest
+10.0.0.2 bajorbriwza.in
 10.0.0.2 belledemodins.shop
 10.0.0.2 bf7mulqyojnit1zif.rest
 10.0.0.2 bfcvdghzuqrts.online
+10.0.0.2 bggombvlvzuc.com
 10.0.0.2 bkrjx629mo93rz7wrr5.rest
 10.0.0.2 bridgetrack.com
 10.0.0.2 bugalaeddied.com
 10.0.0.2 bugleiodizer.com
 10.0.0.2 bugsuntress.cfd
+10.0.0.2 buildkarrisitter.cfd
+10.0.0.2 bvugtbthioppr.online
+10.0.0.2 bvupgholrbbim.website
 10.0.0.2 byibbstnyywqj.store
 10.0.0.2 byjvbtok.com
 10.0.0.2 bzwektryycasw.online
 10.0.0.2 c2kb59yp.xyz
-10.0.0.2 cbw1m4lir4761t.cfd
+10.0.0.2 caprockarabism.qpon
 10.0.0.2 cbymgxvmx.com
 10.0.0.2 cc-dt.com
 10.0.0.2 cgdxdofzndnkl.website
 10.0.0.2 cgxjeqitxwmtp.online
 10.0.0.2 ch2287x1qxc5uypbwmk3v677gzb258olm.rest
+10.0.0.2 chagrinoutyell.com
+10.0.0.2 cleanerdowl.cfd
 10.0.0.2 commission-junction.com
 10.0.0.2 cosokxsztwhfz.website
+10.0.0.2 coulterferae.cfd
 10.0.0.2 cpmbugaboo.com
+10.0.0.2 cppftnwmeaopm.online
 10.0.0.2 crcdtytsfgony.online
 10.0.0.2 daftarfilles.shop
 10.0.0.2 daterushnow.com
+10.0.0.2 debelwastageduds.cyou
 10.0.0.2 dl-rms.com
+10.0.0.2 dtmylsfobqdff.website
+10.0.0.2 dvloxiskkpxmh.online
+10.0.0.2 efllovitttofl.site
 10.0.0.2 ejdvfuhvtvylw.space
 10.0.0.2 elegiseaftaba.com
+10.0.0.2 eludestop.cyou
+10.0.0.2 englutsago.cfd
 10.0.0.2 eqyhnibbirlbc.site
 10.0.0.2 euboeanrakan.com
+10.0.0.2 fauldstragi.qpon
 10.0.0.2 fe2b4qmrgf2no8zqxvipf8.rest
+10.0.0.2 fhdpmlnjeiqnv.site
 10.0.0.2 frkyhxyvwrnrl.website
+10.0.0.2 fwpxsilkgredi.website
 10.0.0.2 g2n3ewhou41oozqzf9iy8nv7m3.rest
 10.0.0.2 g46c5tur6l5ujmphkl7zjwvj4er.rest
 10.0.0.2 g4xtww15iwrkwkkyj.rest
 10.0.0.2 gathersguidon.qpon
 10.0.0.2 gdfnyjnaqxhcc.space
 10.0.0.2 gentlledreams.com
+10.0.0.2 ggzfqxnuvjxot.space
 10.0.0.2 ghntnudjudykr.site
 10.0.0.2 gob3uq6xni9uktr6kut72u182.rest
 10.0.0.2 gotrackier.com
+10.0.0.2 gqbpnoupitmly.site
+10.0.0.2 grailleboppers.qpon
 10.0.0.2 gtuicwuljorkj.space
 10.0.0.2 gxjemsdjbgwse.site
 10.0.0.2 gym5qzeuvpujqt.rest
+10.0.0.2 handingsekhwanmanjel.cyou
+10.0.0.2 hulloedunregal.cfd
 10.0.0.2 i4i8vf6v2pu9m4b329epo4ezeplril1p87.rest
+10.0.0.2 ihmoflzxkbyrl.space
+10.0.0.2 ineoocqxztbzj.site
 10.0.0.2 inlacedtecta.com
 10.0.0.2 invol.co
 10.0.0.2 ismranojgdqvh.website
 10.0.0.2 jawingsundangrose.cfd
+10.0.0.2 jjkvzmcnocrod.site
 10.0.0.2 jqcyyl951zf93u58btj.rest
 10.0.0.2 justservingfiles.net
+10.0.0.2 jwkgfmrxyvavc.site
 10.0.0.2 kbqgggnlabptd.space
+10.0.0.2 keeperpolearm.cyou
 10.0.0.2 kfjlnu4384hkgy5fh.rest
 10.0.0.2 kipi81nkw72pqqefib4o1.rest
+10.0.0.2 kofozzcsfsbcn.site
 10.0.0.2 kqbitpjbsmmzy.site
 10.0.0.2 ktcypxwtvhzwg.site
+10.0.0.2 kzxznnaspbnbp.site
 10.0.0.2 l4iw4xz6vcp1tgn.rest
 10.0.0.2 l9c1nc17xjgeopbfbikpw7ucn5u9vpzmir.rest
 10.0.0.2 llxoexijrmmav.site
 10.0.0.2 lndmlnqcgramo.website
+10.0.0.2 loroschico.cfd
 10.0.0.2 lssfgmuilnxpp.online
 10.0.0.2 ltggxf74t8vxkyx5re.rest
 10.0.0.2 luresustion.cfd
 10.0.0.2 m98nekmz8u2pyzm.rest
 10.0.0.2 m9nkff6mi1r3ippm.rest
 10.0.0.2 masklink.org
+10.0.0.2 mdwezxaqxzfmg.site
 10.0.0.2 media-412.com
 10.0.0.2 metazoaallo.cfd
 10.0.0.2 mf17j3m5rqzb5xy6ix.rest
 10.0.0.2 mgljsmzvqbosp.website
+10.0.0.2 mhglihmafzbhq.site
+10.0.0.2 missaidshielsculebra.cyou
 10.0.0.2 mntzrlt.net
 10.0.0.2 mricm8uun4y359.rest
 10.0.0.2 mt138xjejkbuiznqvr6qvm4kf4vr8.rest
 10.0.0.2 mwpenbxfathop.site
+10.0.0.2 naitheratresic.com
+10.0.0.2 ndqbzkekauwwe.site
+10.0.0.2 nh2hiryvvq1no534bjg3.rest
 10.0.0.2 nigrkzkeoaoxk.site
 10.0.0.2 noncesroi.cyou
 10.0.0.2 nwaxqpoxcmfsh.space
 10.0.0.2 nxekzdilibvet.space
+10.0.0.2 obprcufyxbxqt.space
 10.0.0.2 odgqvsncksakk.online
 10.0.0.2 ofnl2rzqjyoh289q8wj695l.rest
+10.0.0.2 oiyivlyqglj.com
 10.0.0.2 oonttcfzihhqh.online
+10.0.0.2 outweepmoonbowrechip.cyou
+10.0.0.2 ozglvkzmavawg.online
 10.0.0.2 pastedict.com
 10.0.0.2 plasticimprovebodgery.cyou
 10.0.0.2 prod.untd.com
+10.0.0.2 pwawlikobyjyb.online
+10.0.0.2 pwzmqxcyiwiuq.site
+10.0.0.2 pzolt5bhhkjr6i8lmvbb8v1b8tvlk83.rest
+10.0.0.2 qbwbwqluhpsdv.space
+10.0.0.2 qhdihycubffdx.site
+10.0.0.2 qhlxrqyehsqcu.space
 10.0.0.2 qimqebsonbvvy.space
 10.0.0.2 qiot2n7wu6p19eb1q.rest
 10.0.0.2 qky9h1gfbb3f4c5.rest
 10.0.0.2 qrvwplpqiowbx.online
+10.0.0.2 qryaimzmkuhsy.site
 10.0.0.2 qujk19hffgk8jvtxx2qf8k3c2qefnyj.rest
 10.0.0.2 qv33v4hvg6hv3gyxqmjuhq.rest
+10.0.0.2 qzcsyjweehbep.online
 10.0.0.2 razeebisons.com
 10.0.0.2 riznhqheg7lg2q.rest
 10.0.0.2 rocnwzecxn8xhfp.rest
 10.0.0.2 rotf.lol
 10.0.0.2 rpts.org
+10.0.0.2 rzzozswatvfmo.site
 10.0.0.2 sabbatsslighty.cfd
+10.0.0.2 sanitgrumpedgluma.cfd
 10.0.0.2 savinesyohimbe.cfd
+10.0.0.2 sbnjkwtimzcqu.site
 10.0.0.2 servalsolomon.cfd
+10.0.0.2 slickerodwyer.com
 10.0.0.2 stvkr.com
+10.0.0.2 sxazbkdjjrnor.online
 10.0.0.2 t46z9wm1ogjhv7hhmhp.rest
 10.0.0.2 tblxkwbobzpha.online
 10.0.0.2 tdmoqkpqzziit.site
 10.0.0.2 tdwymsecxscng.online
 10.0.0.2 te5xt1v6tjh36jhk.rest
+10.0.0.2 tjcfeyegncavs.online
 10.0.0.2 tkytthdefsrmf.online
 10.0.0.2 tkzx53eoqvzzoe5l.rest
+10.0.0.2 tljdgfkcl.com
+10.0.0.2 tmofitpuvbuqf.online
 10.0.0.2 toquetfirkin.cfd
 10.0.0.2 tourismwea.shop
 10.0.0.2 tpmr.com
 10.0.0.2 trakaff.net
 10.0.0.2 tu6ifhhfvijbpz7.rest
+10.0.0.2 twftnvzbixaua.website
 10.0.0.2 twirkganzie.qpon
+10.0.0.2 txuiz8ko6y7h1nynkc2km81b.cfd
 10.0.0.2 ty1lqyw6muhtvpiu.rest
 10.0.0.2 tzfxvxetsvibg.site
 10.0.0.2 tzpcxvxbhemet.site
 10.0.0.2 uakpvqlpekhxt.space
+10.0.0.2 ucrdnjnlcorqx.online
 10.0.0.2 ugxlk87yei5lieq8.rest
 10.0.0.2 ukqebiukjgoel.site
 10.0.0.2 ulakmnnxbithg.online
+10.0.0.2 uqvkttcefpxcn.online
 10.0.0.2 v1rge5l2hywyv2jywk6eym.rest
+10.0.0.2 vagasvindex.com
+10.0.0.2 vangsyours.com
+10.0.0.2 vegafbyqvlhux.online
+10.0.0.2 vetiydkdof.com
 10.0.0.2 vjtpz13eo22it6lk4ox8wnmem.rest
+10.0.0.2 vklkoyvxvznlk.site
 10.0.0.2 vzcplfhmfzmbm.space
 10.0.0.2 w5k1ni9cuphb1xb87rytjpyl.rest
 10.0.0.2 warmupposaune.com
+10.0.0.2 wazwhqjwsbihn.online
 10.0.0.2 whhwcqkcmvppe.site
 10.0.0.2 wolf-327b.com
 10.0.0.2 woyawayluger.qpon
 10.0.0.2 wpdieifpq.net
 10.0.0.2 wpkzkcvqy4t75p5ir.rest
+10.0.0.2 wydtnufghcmin.online
 10.0.0.2 x75nghv3mrbn77ee23.rest
 10.0.0.2 xmbaorthhwxab.site
+10.0.0.2 xqxuilrabeaab.website
 10.0.0.2 y7f8f8fhyktvivl7xin1.rest
 10.0.0.2 yfqrdeewqnwvy.net
 10.0.0.2 yhippukvfdnxy.site
 10.0.0.2 yiisfgcnpzwno.website
+10.0.0.2 yir788l7myrcivlyipj3glgr.cfd
 10.0.0.2 yiruwjcdcplqx.website
 10.0.0.2 ynbsakxipni.net
+10.0.0.2 yvbvzqvdnohgg.com
 10.0.0.2 z5qi2851vug83zgbk3gi5obo192.rest
 10.0.0.2 zabtisessed.qpon
+10.0.0.2 zdzjammdgxhsl.website
 10.0.0.2 zlzdfpstouwwp.space
+10.0.0.2 zlzmctsagb.com
+10.0.0.2 zwpfjlioidmgg.website
 10.0.0.2 adrecord.com
 10.0.0.2 airfind.com
 10.0.0.2 alimama.com
@@ -2349524,6 +2349606,8 @@
 10.0.0.2 hash.trafficmanager.net
 10.0.0.2 lgfktruknrjbxc.com
 10.0.0.2 t9j3lrvrv.com
+10.0.0.2 vm1mmq2h1.com
+10.0.0.2 c5i6rfwyf.com
 10.0.0.2 1f0l.top
 10.0.0.2 444223564.xyz
 10.0.0.2 47c7zhqak.com
@@ -2354627,7 +2354711,7 @@
 10.0.0.2 a4.overclockers.ua
 10.0.0.2 novunu.football-plyus.net
 
-# Converted 101353 rules from this source
+# Converted 101436 rules from this source
 
 
-# Total unique domains: 2354583
+# Total unique domains: 2354667
